@@ -14,5 +14,6 @@ navbar:
 base_url: https://adterryn.github.io/adrien-terryn-blog/
 collections:
     posts:
+      disqus: httpsadterryngithubioadrien-terryn-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
