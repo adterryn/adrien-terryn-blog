@@ -1,8 +1,9 @@
 ---
-title: "About me"
+title: "Blog for english"
+author: "Adrien TERRYN"
+
 ---
-
-
-This section also must include: 
-
-- first name/surname, teacher’s name, class name and academic year
+- Name: Adrien TERRYN
+- English teacher: Nicolas DEVILEZ
+- Class: BIOBAB2 group 6
+- Academic's year: 2019-2020
