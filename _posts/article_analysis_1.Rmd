@@ -1,0 +1,49 @@
+---
+title: "Article analysis n°1"
+author: 
+  - name: Adrien Terryn
+date: 10-20-2019
+output: 
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Credit: Allen Collin](https://scx1.b-cdn.net/csz/news/800/2019/genomicwarni.jpg)
+
+## Title of the article:
+
+Genomic warning flag just in time for beach season: Jellyfish toxins
+
+## Name of the Magazine + Source:
+
+EurekAlert https://www.eurekalert.org/pub_releases/2019-06/g-gwf062619.php
+
+## Vocabulary
+
+| Words from the text | Synonym / explanation in English                                                                                        |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| a range of          | a variety of                                                                                                            |
+| a jellyfish         | a creature from the sea with a soft nearly transparent body and  with sometimes stings                                  |
+| stalked             | a slender supporting a shaft or a column for animals                                                                    |
+| to hamper           | to obstruct difficulty in activity or movement                                                                          |
+| accurate            | exactly                                                                                                                 |
+| to bloom            | to grow in a healthy state                                                                                              |
+| a gene              |  small part of DNA of a cell which contains instructions to make molecules, proteins                                    |
+| the cnidarians      | the phylum cnidaria is a group of aquatics invertebrates animals include the corals, hydras, jellyfish sea anemones,... |
+| a sting             | a poisonous organ's sharp used by a few animals as a weapon                                                             |
+| truly               | precisely, exactly                                                                                                      |
+
+## Analysis table 
+
+|                              |                                                                                                                                                                                                      |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researshers                  | Joseph Ryans, leader of the international group of researchers                                                                                                                                       |
+| Published in?                | 30 june 2019                                                                                                                                                                                         |
+| General topic?               | The article explains the study of genomes of 3 species of jellyfish. It allows to determine their physical characteristics and their toxicity.                                                       |
+| Procedure/what was examined? | They compared the genomes of three jellyfishes and that revealed information about the evolution of cnidarian venom. They found that gene loss and gene duplication play roles in species evolution. |
+| Conclusions/discovery?       | This study allowed to say that genome sequences are availble in the five classes of cnidarians. The learning of their toxicities will enable the exploration of diverse range of biological traits.  |
+| Remaining questions?         | No more really questions but this study will be used to continue the research of specific biological traits.                                                                                         |
