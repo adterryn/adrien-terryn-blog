@@ -3,6 +3,7 @@ title: "Article analysis n°1"
 author: 
   - name: Adrien Terryn
 date: 10-20-2019
+preview: https://scx1.b-cdn.net/csz/news/800/2019/genomicwarni.jpg
 output: 
   distill::distill_article:
     self_contained: false
