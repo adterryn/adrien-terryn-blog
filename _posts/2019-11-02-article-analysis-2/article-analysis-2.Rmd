@@ -57,9 +57,7 @@ Sciencema: https://www.sciencemag.org/news/2019/07/jellyfish-makes-glowing-prote
 | General topic?                 | Five fluorescent proteins were discovered in the body of the jellyfish by Nathan Shaner and his team                                                                                                                                                                                       |
 | Procedure / what was examined? | They dived for a jellyfish by chance in the reefs surrounding the coral cay on the southern end of Australia's Great Barrier Reef. They prepared a sample to analyse it. After sequencing of DNA? they discovered 5 fluorescent proteins with emission peaks at very specific wavelengths. |
 | Conclusions / discovery?       | Five new fluorescent proteins have been discovered to be used for longer - lasting stains in lab.                                                                                                                                                                                          |
-| Remaining questions?           | - How to make them useful in lab?
-- How to make them smaller, brighter?
-- How to make them easier to manipulate within cells?                                                                                                                                                              |
+| Remaining questions?           | How to make them useful in lab? How to make them smaller, brighter? How to make them easier to manipulate within cells?                                                                                                                                                              |
 
 
 
