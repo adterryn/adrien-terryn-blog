@@ -1,0 +1,65 @@
+---
+title: "Article analysis n°3"
+
+author:
+  - name: Adrien Terryn
+date: 11-16-2019
+preview: https://img.aws.la-croix.com/2019/05/14/1201021744/meduse-boite-Chironex-fleckeri_0_729_512.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Credit: Kevin Aitken](https://img.aws.la-croix.com/2019/05/14/1201021744/meduse-boite-Chironex-fleckeri_0_729_512.jpg)
+
+## Title of the article:
+
+Researchers may have an antidote for the deadliest jellyfish sting on Earth
+
+## Name of the Magazine + Source:
+
+Sciencemag https://www.sciencemag.org/news/2019/04/researchers-may-have-antidote-deadliest-jellyfish-sting-earth
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English                       |
+| ------------------- | ---------------------------------------------------- |
+| to figure out       | to discover by thinking                              |
+| to involve with     | to motivate someone to become connected or concerned |
+| vastly              | very much, enormously                                |
+| an encounter        | a sudden meeting unexpected or dangerous             |
+| to increase         | to become larger in amount, number or degree         |
+| a target            | any object or place at which an attack is directed   |
+| yet                 | thus far, until now                                  |
+| to sook             | to be completely covered by a liquid                 |
+| tiny                | extremely small                                      |
+| a bead              | a small ball of glass                                |
+| freeze-dried        | to preserve by drying in a frozen state              |
+| myeloid             | a cell coming from the bone marrow                   |
+| mice                | plural of a mouse                                    |
+| scarring            | scars; marks persisting on the skin from a cut       |
+| to pull out         | to shoot out of                                      |
+| entryway            | a passage by which one enters a place                |
+| skeptical           | sceptical                                            |
+| potent              | powerful                                             |
+| clinical trial      | clinical experience or testing                       |
+| lucky               | fortunate                                            |
+| to work out         | to function                                          |
+
+## Analysis table 
+
+|                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | Geneticist Greg Neely of the University of Sydney and his colleagues                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Published in?                | April 30th 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| General topic?               | The potential discovery antidote against the sting of jellyfish, the *chironex fleckeri*, the most venomous in the world                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Procedure/what was examined? | For this new study, they caught this jellyfish in the coastal waters of Australia. They recovered the stinging cells of the tentacles, the cnidocytes, and they broke them with glass beads to recover venom and to freeze-dry it. They collected millions of cells from the bone marrow that are lacking genes. They injected them venom. The surviving cells are those that do not possess the protein attacked by the venom. They discovered that the missing genes produced cholesterol. They also discovered that two drugs could block the mice from dying after injection of this venom. |
+| Conclusions/discovery?       | The venom attacks the cholesterol producing genes and that the cholesterol targeting drugs are able to block the venom.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Remaining questions?         | Wile the antidote be effective with a patient stung by a jellyfish whose venom is supposed to be more powerful than the freeze-dried one?                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+
+
