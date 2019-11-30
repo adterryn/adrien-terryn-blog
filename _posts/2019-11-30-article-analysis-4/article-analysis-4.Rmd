@@ -1,0 +1,72 @@
+---
+title: "Article analysis n°4"
+
+author:
+  - name: Adrien Terryn
+date: 11-30-2019
+preview: https://scx1.b-cdn.net/csz/news/800/2019/5d668137c48a1.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Ultra-soft underwater gripper](https://scx1.b-cdn.net/csz/news/800/2019/5d668137c48a1.jpg)
+
+## Title of the article:
+
+Ultra-soft underwater gripper safely catches and releases jellyfish
+
+## Name of the Magazine + Source:
+
+ScienceDaily https://www.sciencedaily.com/releases/2019/08/190828143057.htm
+
+## Vocabulary
+
+| Words from the text | Synonym / explanation in English                                            |
+| ------------------- | --------------------------------------------------------------------------- |
+| a novel solution    | an original solution                                                        |
+| a gripper           | a plier, a pincer                                                           |
+| to wrap around/up   | to cover something                                                          |
+| to harm             | to damage or wrong                                                          |
+| improvement         | betterment                                                                  |
+| sampling            | a small part of something, typical small quantity                           |
+| otherwise           | in a different way, differently                                             |
+| flat                | not very thick or high                                                      |
+| a strip             | a narrow piece                                                              |
+| hollow              | having an empty space inside                                                |
+| a channel           | a way or a passage for something or somewhere                               |
+| banded              | glue                                                                        |
+| a layer             | a thickness of some substance                                               |
+| stiff               | not bending or moving easily                                                |
+| to fill with        | to make or become full                                                      |
+| to grasp            | to keep a firm hold of                                                      |
+| to exert            | to exercise                                                                 |
+| an eyelid           | either of the pieces of covering skin which can move down to close each eye |
+| to grap             | to grasp                                                                    |
+| spotted             | dotted, mottled                                                             |
+| the pace            | the rhythm                                                                  |
+| ongoing             | in progress, continuing                                                     |
+| squishy             | viscous                                                                     |
+| a diverse array of  | a wide range of                                                             |
+| to refine           | to sublimate                                                                |
+| to aim to conduct   | to endeavor to lead                                                         |
+| to being held       | to be retained                                                              |
+| to attempt          | to endeavor                                                                 |
+
+## Analysis table 
+
+|                              |                                                                                                                                                                                                                                                                                              |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | Researchers at Harvard's Wyss Institute for Biologically Inspired Engineering John A. Paulson School of Engineering and Applied Sciences (SEAS), and Baruch College at CUNY                                                                                                                  |
+| Published in?                | August 28th 2019                                                                                                                                                                                                                                                                             |
+| General topic?               | A new technology capable of capturing a jellyfish without harming them: an underwater gripper.                                                                                                                                                                                               |
+| Procedure/what was examined? | An underwater gripper with a hydraulic pression to grasp delicately but firmly a jellyfish and  to be able to release it without hurting it. The robotic gripper has been tested on an artificial silicone jellyfish in an aquarium then it was really tested on different kinds of jellies. |
+| Conclusions/discovery?       | The gripper makes collecting underwater species easier and safer. It prevents injury and stress to the captured  species.                                                                                                                                                                    |
+| Remaining questions?         | How to improve the device so that it is also effective on open oceans?                                                                                                                                                                                                                       |
+
+
+
