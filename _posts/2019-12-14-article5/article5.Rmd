@@ -1,0 +1,61 @@
+---
+title: "article5"
+author:
+  - name: Adrien Terryn
+date: 12-14-2019
+preview: https://upload.wikimedia.org/wikipedia/commons/f/f0/Cladonema_pacificum.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Clademona pacificum](https://upload.wikimedia.org/wikipedia/commons/f/f0/Cladonema_pacificum.jpg)
+
+## Title of the article:
+
+Jellyfish's 'superpowers' gained through cellular mechanism
+
+## Name of the Magazine + Source:
+
+ScienceDaily https://www.sciencedaily.com/releases/2019/10/191001102205.htm
+
+## Vocabulary
+
+| Words from the text  | Synonym / explanation in English                              |
+| -------------------- | ------------------------------------------------------------- |
+| currently            | presently, now                                                |
+| quite                | enough                                                        |
+| a fly                | a small flying insect with two wings                          |
+| a worm               | a small thin creature with no bones or limbs                  |
+| to broaden           | to widen                                                      |
+| feature              | characteristic                                                |
+| diverging            | separating and going on in different directions               |
+| branching            | offshoot                                                      |
+| pattern              | the way in which something happens or develops                |
+| aiming to            |  to direct one's efforts towards doing or obtaining something |
+| maintenance          | keeping something in good shape                               |
+| a high spawning rate | expensive                                                     |
+| suitable             | of the right type or quality for                              |
+| appendage            | something that is added to                                    |
+| to cluster           | to gather                                                     |
+| withholding          |  refusal to give something                                    |
+| inhibiting agent     | a thing that works to hold back                               |
+| stem cell            | cell that can differentiate into other types of cells         |
+| decrease             | to become less in size                                        |
+| deciphering          | to find the meaning of                                        |
+| purpose              | aim, design                                                   |
+
+## Analysis table 
+
+|                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | Yuichiro Nakajima Assistant Professor and Sosuke Fujita a master student at Tohoku University                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Published in?                | October 01th 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| General topic?               | Our knowledge of biology is limited because the most researchers study model animals like mice. The jellyfish is one of such animals with biological features which are interesting. Jellyfish are not bilaterally symmetrical animals and possess the capacity to regenerate body parts. These primitive animals could play a pivotal role in understanding the evolutionary biology of bilaterally symmetrical animals because the most of the complex animals have lost this trait.                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Procedure/what was examined? | The researchers studied Cladonema pacficum. She allowed them to investigate the spatial pattern of cell proliferation and their roles during jellyfish development and regeneration. They studied the role of cell proliferation in food absorption. The researchers observed the location of cells that play a key role in DNA replication. In their study, they also retained food intake or blocked proliferation with an inhibiting agent. They noticed that there were spatially distinct groups of proliferating cells in the sexual stage, i. e. the jellyfish stage. In the umbrella-shaped part, proliferation is uniform but in the tentacles, it is grouped together. By blocking food or proliferation, they discovered that growth was inhibited and that there were defects in regeneration etc. When food was no longer available, jellyfish showed a gradual decrease in size.                                                                                                                                                                                                                                                                                                                                     |
+| Conclusions/discovery?       |  Finally, adult jellyfish have actively proliferating cells that are important in controlling body size, tentacle shape and regeneration. They are also able to adapt to their environment in the event of a lack of food.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Remaining questions?         | How does this regeneration mechanism work? Are there any differences between the sexual stage (jellyfish) and the asexual stage (polyp)?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
