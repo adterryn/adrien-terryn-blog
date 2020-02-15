@@ -1,0 +1,66 @@
+---
+title: "article-analysis-6"
+author:
+  - name: Adrien Terryn
+date: 02-15-2020
+preview: https://i.pinimg.com/originals/da/52/99/da52996e8ed0246b275394800e7edb8b.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Upside-down jellyfish Cassiopea ](https://i.pinimg.com/originals/da/52/99/da52996e8ed0246b275394800e7edb8b.jpg)
+
+## Title of the article:
+
+Stinging water mystery solved: Jellyfish can sting swimmers, prey with 'mucus grenades'
+
+## Name of the Magazine + Source:
+
+ ScienceDaily  https://www.sciencedaily.com/releases/2020/02/200213135805.htm
+
+## Vocabulary
+
+| Words from the text | Synonym / explanation in English               |
+| ------------------- | ---------------------------------------------- |
+| to steer clear of   | to take case to avoid                          |
+| upside-down         | upturned                                       |
+| placid              | peaceful and calm, with little movement        |
+| despite             | without being affect                           |
+| mild                | tender, soft                                   |
+| shetered            | protected from hard weather                    |
+| the discomfort      | the slight pain                                |
+| a recreationist     | a person who enjoys outdoor leisure activities |
+| sea lice            | marine ectoparasite                            |
+| the culprit         | the cause of a problem                         |
+| bumpy               | rough, irregular                               |
+| to spin             | to turn                                        |
+| slimy               | ressembing slime                               |
+| hairlike            | capillary, thin                                |
+| puzzling            | causing one to be puzzled, perplexing          |
+|  spoon              | a thing ressembling a spoon in shape           |
+| a shrimp            | a small free swimming crustacean               |
+| to rear             | to bring up                                    |
+| widespread          | distributed over a large area                  |
+| harnessing          | control and make use of natural ressources     |
+
+## Analysis table 
+
+|                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                  | Scientist at Smithsonian's National Museum of Natural History, the University of Kansas and the U.S. Naval Research Laboratory                                                                                                                                                                                                                                                                                                                   |
+| Published in?                | February 13, 2020                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| General topic?               | Cassiopea or upside-down jellyfish is the cause of irritating water along warm coastal waters.                                                                                                                                                                                                                                                                                                                                                   |
+| Procedure/what was examined? | Researchers observed the mucus produced by these jellyfish under a microscope and discovered gyratory balls of stinging cells. They named them cassiosomes. Inside these balls are some symbiotic algae. These algae also present in their bodies bring nutrients to the jellyfish through photosynthesis. They also observed that these cassiosomes could kill shrimp and tiny crustaceans. They discovered four other species also possessing. |
+| Conclusions/discovery?       | These cassiosomes make it possible to supplement the diet of these jellyfish when there is not enough light. And it's these cassiosomes that make the water stinging for divers.                                                                                                                                                                                                                                                                 |
+| Remaining questions?         | Do other species have these cassiosomes?                                                                                                                                                                                                                                                                                                                                                                                                         |
+
+
+
+
+
+
