@@ -1,5 +1,5 @@
 ---
-title: "article-analysis-6"
+title: "article analysis n°6"
 author:
   - name: Adrien Terryn
 date: 02-15-2020
