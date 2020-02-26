@@ -1,0 +1,57 @@
+---
+title: "Article analysis n°7"
+author:
+  - name: Adrien Terryn
+date: 02-26-2020
+preview: https://darwinsect.com/wp-content/uploads/2016/09/3009731_orig-510x401.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![*Aurelia aurita* , moon jellyfish](https://darwinsect.com/wp-content/uploads/2016/09/3009731_orig-510x401.jpg)
+
+## Title of the article:
+
+How moon jellyfish get about
+
+## Name of the Magazine + Source:
+
+ScienceDaily https://www.sciencedaily.com/releases/2020/01/200123095833.htm
+
+## Vocabulary
+
+| Words from the text                  | Synonym/ explanation in English                                                               |
+| ------------------------------------ | --------------------------------------------------------------------------------------------- |
+| bell                                 | Part of the jellyfish having a deep, upside-down cup shape. The tentacles are attached to it. |
+| translucent                          | allowing light                                                                                |
+| to injure                            | damage to                                                                                     |
+| the ring                             | the coil                                                                                      |
+| a ring-shaped                        | a circular object                                                                             |
+| the vortex, (plural noun = vortices) | the whirlpool                                                                                 |
+| the edge                             | the outside limit of the animal                                                               |
+| among                                | amid, in the middle of                                                                        |
+| surrounding                          | all round a particular part                                                                   |
+| the current                          | a body of water flowing in a particular direction                                             |
+| the assumption                       | the supposition                                                                               |
+| to spread                            | to extend                                                                                     |
+| to pick up                           | to recover                                                                                    |
+| impaired                             | damaged, harmed                                                                               |
+| to disrupt                           |  to destroy the structure of                                                                  |
+| century                              | a period of one hundred years                                                                 |
+| to improve                           | to make better                                                                                |
+
+## Analysis table 
+
+|                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | The lead author, Fabian Pallasdies from the Neural Network Dynamics and Computation research group at the Institute of Genetics at the University of Bonn and scientists at the University of Bonn whose group leader is Prof. Dr. Raoul-Martin Memmesheimer                                                                                                                                                                                                                                                                                                                  |
+| Published in?                | January 23, 2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| General topic?               | A mathematical model was used to study how these jellyfish manage to use their neural networks to move around even when injured.                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Procedure/what was examined? | In several steps, they considered individual nerve cells, networks of nerve cells, the whole animal and the surrounding water. They began by studying an individual nerve cell, then the cell networks, and finally the whole animal. The mathematical model allows them to understand how these cells set the animal in motion and thus answer different hypotheses. These cells can be stimulated by light, and an organ is used to stabilize the jellyfish. Nerve excitation spreads in a wave-like pattern. Their mode of movement is studied in the context of robotics. |
+| Conclusions/discovery?       | Jellyfish use a neural network to swim in a straight line and to make rotational movements. They can pick up and transmit signals on their bell anytime they are injured.                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Remaining questions?         | Can we improve underwater robot control with this study? Where does this neural system come from in such a primitive animal?                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

@@ -1,7 +1,22 @@
 [
   {
+    "path": "posts/2020-02-26-article-7/",
+    "title": "Article analysis n°7",
+    "description": {},
+    "author": [
+      {
+        "name": "Adrien Terryn",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-26",
+    "categories": [],
+    "preview": "https://darwinsect.com/wp-content/uploads/2016/09/3009731_orig-510x401.jpg",
+    "last_modified": "2020-02-26T17:09:13+01:00"
+  },
+  {
     "path": "posts/2020-02-15-article-analysis-6/",
-    "title": "article analysis n°6",
+    "title": "Article analysis n°6",
     "description": {},
     "author": [
       {
@@ -12,11 +27,11 @@
     "date": "2020-02-15",
     "categories": [],
     "preview": "https://i.pinimg.com/originals/da/52/99/da52996e8ed0246b275394800e7edb8b.jpg",
-    "last_modified": "2020-02-15T17:04:48+01:00"
+    "last_modified": "2020-02-26T15:44:48+01:00"
   },
   {
     "path": "posts/2019-12-14-article5/",
-    "title": "article analysis n°5",
+    "title": "Article analysis n°5",
     "description": {},
     "author": [
       {
@@ -27,7 +42,7 @@
     "date": "2019-12-14",
     "categories": [],
     "preview": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Cladonema_pacificum.jpg",
-    "last_modified": "2020-02-15T17:04:57+01:00"
+    "last_modified": "2020-02-26T15:44:31+01:00"
   },
   {
     "path": "posts/2019-11-30-article-analysis-4/",

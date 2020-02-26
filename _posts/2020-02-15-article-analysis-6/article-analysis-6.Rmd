@@ -1,5 +1,5 @@
 ---
-title: "article analysis n°6"
+title: "Article analysis n°6"
 author:
   - name: Adrien Terryn
 date: 02-15-2020
@@ -23,7 +23,7 @@ Stinging water mystery solved: Jellyfish can sting swimmers, prey with 'mucus gr
 
  ScienceDaily  https://www.sciencedaily.com/releases/2020/02/200213135805.htm
 
-## Vocabulary
+## Vocabulary:
 
 | Words from the text | Synonym / explanation in English               |
 | ------------------- | ---------------------------------------------- |
@@ -48,7 +48,7 @@ Stinging water mystery solved: Jellyfish can sting swimmers, prey with 'mucus gr
 | widespread          | distributed over a large area                  |
 | harnessing          | control and make use of natural ressources     |
 
-## Analysis table 
+## Analysis table:
 
 |                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
