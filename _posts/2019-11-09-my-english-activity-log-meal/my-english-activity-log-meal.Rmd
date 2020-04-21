@@ -2,7 +2,7 @@
 title: "My English Activity Log : M.E.A.L."
 author:
   - name: Adrien Terryn
-date: 11-09-2019
+date: 10-08-2019
 categories:
   - "M.E.A.L."
 output:
@@ -13,3 +13,9 @@ output:
 - Sept. 25th: I downloaded LyricsTraining on my phone. This application enables to listen  the music with lyrics like a karaoke but you can pull words in the music's text. In that way, you can try to find these words listening to the song.
 
 - November 04th: I started to look "Big mouth" a american's cartoon on Netflix with english subtitles.
+
+- I changed the language of some of my video games to English.
+
+- I downloaded the BBC app to get the news in English.
+
+
