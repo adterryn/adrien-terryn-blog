@@ -2,7 +2,7 @@
 title: "Article analysis n°2"
 aauthor: 
   - name: Adrien Terryn
-date: 10-20-2019
+date: 11-03-2019
 preview: http://www.roboastra.com/Cnidaria2/images/brac514.jpg
 output: 
   distill::distill_article:
