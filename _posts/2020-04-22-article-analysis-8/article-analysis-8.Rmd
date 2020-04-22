@@ -13,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](https://media.eurekalert.org/multimedia_prod/pub/web/226012_web.jpg)
+![FEMALE GONAD ISOLATED FROM A MIHR MUTANT JELLYFISH, SWOLLEN BY THE ACCUMULATION OF IMMATURE UNSPAWNED OOCYTES](https://media.eurekalert.org/multimedia_prod/pub/web/226012_web.jpg)
 
 ## Title of the article:
 
