@@ -1,0 +1,54 @@
+---
+title: "Article analysis n°8"
+author:
+  - name: Adrien Terryn
+date: 04-22-2020
+preview: https://media.eurekalert.org/multimedia_prod/pub/web/226012_web.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://media.eurekalert.org/multimedia_prod/pub/web/226012_web.jpg)
+
+## Title of the article:
+
+Jellyfish help understand the timing of egg production
+
+## Name of the Magazine + Source:
+
+EurekAlert! https://www.eurekalert.org/pub_releases/2020-03/p-jhu030320.php
+
+## Vocabulary
+
+| Words from the text | Synonym/ explanation in English                                            |
+| ------------------- | -------------------------------------------------------------------------- |
+| to release          | allow to escape from confinement                                           |
+| timely              | opportune, well timed                                                      |
+| manner              | a way in which a thing happens                                             |
+| poorly              | badly, imperfectly                                                         |
+| to ensure           | make sure, secure, guarantee                                               |
+| to trigger          | a small device that releases a spring or catch and so sets off a mechanism |
+| surrounding         | all round a particular place or thing                                      |
+| dawn                | daybreak, first light                                                      |
+| rise                | increase                                                                   |
+| clue                | indication, signal                                                         |
+| bait                | lure, decoy                                                                |
+| mimic               | imitate, copy                                                              |
+| downstream          | located before a specific event                                            |
+| oocyte              | a cell in an ovary which may undergo meiotic division to form an ovum      |
+
+## Analysis table 
+
+|                              |                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | Gonzalo Quiroga Artigas and Evelyn Houliston of Sorbonne University, France, and colleagues                                                                                                                                                                                                                                                                                                                             |
+| Published in?                | March 03, 2020                                                                                                                                                                                                                                                                                                                                                                                                          |
+| General topic?               | Clytia hemisphaerica, a common jellyfish is being studied to better understand how some externally fertilized animals release their eggs at the right time for fertilization.                                                                                                                                                                                                                                           |
+| Procedure/what was examined? | The researchers knew the hormone that activates the process, but they discovered receptors for this previously unknown hormone by studying this jellyfish. To prove that these receptors had a role in egg formation, they mutated them and noticed defects in the development and formation of egg and sperm in both females and males. This discovery will lead to an understanding of how the oocyte becomes an egg. |
+| Remaining questions?         | What are the links between nutrition and sexual reproduction in animals?                                                                                                                                                                                                                                                                                                                                                |
+
